@@ -31,3 +31,8 @@ Los marcadores nos sirven para poder diferenciar las dos versiones, es decir, la
 <img width="1126" height="641" alt="image" src="https://github.com/user-attachments/assets/6751f156-966e-4cd2-b0d8-0d57cf2bc72d" />
 <img width="1915" height="967" alt="image" src="https://github.com/user-attachments/assets/1dfb1439-a5d4-422d-9fe2-b9ecc01f79cc" />
 
+### Tarea 6:
+
+<img width="990" height="272" alt="image" src="https://github.com/user-attachments/assets/c35b63e7-94f4-4267-a029-b9b647f5c2e2" />
+
+Lo más complicado sin duda ha sido el mergeo. Yo además he tenido un conflicto adicional en el mergeo con las opciones 5 y 6, que he tenido que resolver manualmente también. No sé si esto estaba o no planificado en la práctica.
