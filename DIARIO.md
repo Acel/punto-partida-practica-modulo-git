@@ -9,3 +9,7 @@ Una vez hecho esto, es habitual necesitar mantener un vínculo con el repositori
 
 ### Tarea 2:
 
+Nuestra nueva feature partirá de dev y no de main porque dev es nuestra rama de desarrollo y main la de producción. En dev es donde se hacen las pruebas. No tendría sentido desarrollar en main directamente por el rieesgo de errores y de romper cosas en producción sin que estén 100% probadas. Por tanto, el orden lógico es: se crea una rama desde dev, que debe estar lo más actualizada posible con respecto a main. Después se hacen los cambios y pruebas. Cuando nos aseguremos de que nuestra feature funciona como deseamos, se mergea con dev, se pasan tests y se comprueba que dev funciona correctamente. Solo tras todos estos pasos, en algún momento de nuestro ciclo de integración contínua, la rama dev se mergeará en main y pasará a producción.
+
+<img width="1912" height="963" alt="image" src="https://github.com/user-attachments/assets/5c1fcca6-1ea8-479c-af8f-5a1c3c7d0e02" />
+
