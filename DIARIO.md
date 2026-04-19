@@ -17,3 +17,9 @@ Nuestra nueva feature partirá de dev y no de main porque dev es nuestra rama de
 
 En git se produce un conflicto cuando dos ramas diferentes, que parten de la misma rama original, en nuestro caso dev, hacen modificaciones sobre una misma línea de un mismo fichero, o varios. En este caso, ambas ramas querrán modificar dicha línea de dicho fichero al mergearse con dev. Y aquí es donde surgirá el conflicto: cuál es la información correcta, la de la primera feature o la de la segunda? El usuario en este caso tendrá que decidir manualmente cómo resolver este conflicto. Cuál de las dos versiones elige, o incluso una mezcla de ambas. En nuestro caso concreto el conflicto surgirá en la descripción de la opción 3, que es modificada por ambas features.
 
+### Tarea 4:
+
+En files changed he revisado los cambios de mi rama con respecto a dev. Puedo ver que se ha modificado la descripción de la opción 3 y que se ha añadido la opción 5, tal y como se puede ver en la imagen que se adjunta a continuación. Es recomendable revisar esto para asegurarnos de que realmente se mergea lo correcto, y no cualquier otra cosa por error.
+
+<img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/3d06dcdf-9bac-472d-8997-bb1bc34b809e" />
+
