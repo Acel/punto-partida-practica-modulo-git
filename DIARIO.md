@@ -23,3 +23,11 @@ En files changed he revisado los cambios de mi rama con respecto a dev. Puedo ve
 
 <img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/3d06dcdf-9bac-472d-8997-bb1bc34b809e" />
 
+### Tarea 5:
+
+Los marcadores nos sirven para poder diferenciar las dos versiones, es decir, la que tengo en mi rama y la que me viene de dev. El ide me muestra las dos versiones y me pide elegir entre una de las dos, o includo conservar ambas, para poder resolver el conflicto.
+
+<img width="1915" height="970" alt="image" src="https://github.com/user-attachments/assets/6092ccbe-d866-47fb-8016-261b2e5f1ad2" />
+<img width="1126" height="641" alt="image" src="https://github.com/user-attachments/assets/6751f156-966e-4cd2-b0d8-0d57cf2bc72d" />
+<img width="1915" height="967" alt="image" src="https://github.com/user-attachments/assets/1dfb1439-a5d4-422d-9fe2-b9ecc01f79cc" />
+
